@@ -1,0 +1,5 @@
+[default]
+entity = arbest
+project = wall-E
+base_url = https://api.wandb.ai
+

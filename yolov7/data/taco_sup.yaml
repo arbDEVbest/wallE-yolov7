@@ -1,0 +1,33 @@
+names:
+- Aluminium foil
+- Battery
+- Blister pack
+- Bottle
+- Bottle cap
+- Broken glass
+- Can
+- Carton
+- Cup
+- Food waste
+- Glass jar
+- Lid
+- Other plastic
+- Paper
+- Paper bag
+- Plastic bag & wrapper
+- Plastic container
+- Plastic glooves
+- Plastic utensils
+- Pop tab
+- Rope & strings
+- Scrap metal
+- Shoe
+- Squeezable tube
+- Straw
+- Styrofoam piece
+- Unlabeled litter
+- Cigarette
+nc: 28
+test: ../datasets/test/images
+train: ../datasets/train/images
+val: ../datasets/val/images
